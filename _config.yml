@@ -21,7 +21,7 @@ repository               : "MuawizChaudhary/MuawizChaudhary.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "img_20221106_014222_cropped.png"
+  avatar           : "img_20221106_014222_cropped_compressed.jpg"
   name             : "Muawiz Chaudhary"
   pronouns         : "He/They" # example: "she/her"  
   bio              : "Machine Learner"
