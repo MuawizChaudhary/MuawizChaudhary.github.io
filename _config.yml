@@ -25,7 +25,7 @@ author:
   name             : "Muawiz Chaudhary"
   pronouns         : "He/They" # example: "she/her"  
   bio              : "Machine Learning Researcher and Engineer"
-  location         : "Earth"
+  location         : #"Earth"
   employer         : #""
   uri              : # URL
   email            : "muawiz.chaudhary@mila.quebec" 
