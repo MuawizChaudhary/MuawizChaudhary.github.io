@@ -15,4 +15,4 @@ I did my master's under Prof. Eugene Belilovsky at Concordia University and affi
 
 I enjoy community service, especially in the academic setting. Two highlights of my service include my time as a Mila Student Lab Representative and my mentorship of junior researchers. 
 
-I am an avid skater. My origins as a "Cali Boy" long border from the sunny Bay Area are in contrast to my love of Montreal winters that enable me to ice skate outside the lab. 
+I am an avid skater. My origins as a "Cali Boy" long boarding in the sunny Bay Area contrast my love of Montreal winters that enable me to ice skate outside the lab. 
